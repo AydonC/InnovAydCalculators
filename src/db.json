@@ -1,0 +1,49 @@
+{
+    "sections": [
+      {
+        "id": 1,
+        "name": "Basic Calculator",
+        "icon": "🧮"
+      },
+      {
+        "id": 2,
+        "name": "BMI Calculator",
+        "icon": "⚖️"
+      },
+      {
+        "id": 3,
+        "name": "BMR Calculator",
+        "icon": "⚖️"
+      },
+      {
+        "id": 4,
+        "name": "Tax Calculator",
+        "icon": "💸"
+      },
+      {
+        "id": 5,
+        "name": "Budget Calculator",
+        "icon": "💸"
+      },
+      {
+        "id": 6,
+        "name": "Instalment Calculator",
+        "icon": "💸"
+      },
+      {
+        "id": 7,
+        "name": "Distance Unit Conversion Calculator",
+        "icon": "⚖️"
+      },
+      {
+        "id": 8,
+        "name": "Currency Conversion Calculator",
+        "icon": "💸"
+      },
+      {
+        "id": 9,
+        "name": "Grade Calculator",
+        "icon": "💯"
+      }
+    ]
+  }
